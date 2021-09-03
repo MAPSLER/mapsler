@@ -16,5 +16,19 @@ Here are some ideas to get you started:
 -->Xer0UR/G key dinamik
 Maqpsler Donate invalid progect in use state Denver in DNS register maps in acount 5.3 
 Mapsler GPS Openstret maps Ukraine
+https://secure.echolink.org/pingTest.jsp?callsign=A0B
+CQ call id namber A0B  
+server ip static 0.0.0.0 local ip 
+
+https://www.whois.com/
+
+![mapsler-denver-gps-hose-gps](https://user-images.githubusercontent.com/89662644/131965436-6de87d1f-7a18-4500-b067-c251f4665a12.jpeg)
+
+
+DNS  mapsler/*...*/
 Viber acount 380665399722 mapsler
+![mapsler-radio-scan](https://user-images.githubusercontent.com/89662644/131965351-6cee8883-f2f9-4be4-bb71-b239bb0d8601.png)
+
 UVR5R_SP3 programine code security in police \A0E0\DNS LOCAL DENVER SERVER php 5.3
+
+
