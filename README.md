@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->Xer0UR/G key dinamik
 Maqpsler Donate invalid progect in use state Denver in DNS register maps in acount 5.3 
 Mapsler GPS Openstret maps Ukraine
-Viber acount 380665399722 mapsler
+Viber acount 380665399722 Номер телефона завгіблого бійця, він здав книжки, так і попав до арміїї, але він і досить то воюей десь на теріторій далекій від россії, він давно воюва або перевоював за россію, за сірію, зараз теж воеє та на много  більше, переконав командира шо форма та обув отримати стало намного трудніше....mapsler
 UVR5R_SP3 programine code security in police \A0E0\DNS LOCAL DENVER SERVER php 5.3
++180665399722 телефон прямого звязку з НЕТО або НАТО
+З повагою до раззброених сил россіїї та 3 см для арміїї це не поза... а дуже мало...
