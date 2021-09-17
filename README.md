@@ -4,6 +4,8 @@
 <!--
 **mapsler/mapsler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Наш актив, ный скрипт тестируется, с лицензией хирурга, свободно распространяюшиеся
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on |Gamer| mainecraft server
@@ -19,3 +21,4 @@ Maqpsler Donate invalid progect in use state Denver in DNS register maps in acou
 Mapsler GPS Openstret maps Ukraine
 Viber acount 380665399722 mapsler
 UVR5R_SP3 programine code security in police \A0E0\DNS LOCAL DENVER SERVER php 5.3
+![maps-uragan](https://user-images.githubusercontent.com/89662644/133750500-8f84b9e5-ce8f-4aaa-ba3e-5359faf474e8.jpg)
