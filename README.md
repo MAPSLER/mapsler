@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mapsler GPS trecer Gemer Pay
 - 💬 Ask me about mapsler Gps open stret maps
 - 📫 How to reach me mapsler pay donate acount in ukraine \mapler@ukr.net\ key board \
-- 😄 Pronouns: fone mobaile namber ukraine(38066539972) ivanov evgen igorovich
+- 😄 Pronouns: ![aHR0cHM6Ly9kMXlvYXVuOHN5eXh4dC5jbG91ZGZyb250Lm5ldC9xZzI0NC0xMzhkZGMyYy1jMzBhLTQ1ZTctOGI1OC1lYWY5YThiMGY2MTQtdjI](https://user-images.githubusercontent.com/89662644/133897798-aa5ecded-6bb4-480c-a183-db35c62dd2ff.jpg)
+
 - ⚡ Fun fact: mapler gps login in ukr net telecom
 -->Xer0UR/G key dinamik
 Maqpsler Donate invalid progect in use state Denver in DNS register maps in acount 5.3 
 Mapsler GPS Openstret maps Ukraine
-Viber acount 380665399722 mapsler
+Viber acount  mapsler
 UVR5R_SP3 programine code security in police \A0E0\DNS LOCAL DENVER SERVER php 5.3
 ![maps-uragan](https://user-images.githubusercontent.com/89662644/133750500-8f84b9e5-ce8f-4aaa-ba3e-5359faf474e8.jpg)
