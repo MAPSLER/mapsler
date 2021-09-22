@@ -2,6 +2,9 @@
 
 ![hidden-crypto-bank-facer-mapsler](https://user-images.githubusercontent.com/89662644/134298307-99774148-207c-46d9-9763-9d82b34fd926.jpeg)
 
+![Digital-Dollar](https://user-images.githubusercontent.com/89662644/134407736-4ef8b240-cfae-4847-9987-bcb2350cbdb1.jpg)
+
+
 Уважаемые пользователи, наш проект находится на стадии разработки и некоторые сервисы времено не работают, уведомляем ВАС
 
 ![donations](https://user-images.githubusercontent.com/89662644/133726679-7bc5473a-0f04-4f2e-8d76-88ae2bbc667c.jpg)
