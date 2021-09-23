@@ -16,6 +16,17 @@
 ###############################################################################
 * text=auto
 
+![custom-press-pass](https://user-images.githubusercontent.com/89662644/134459776-21aba673-bd25-4574-9523-1f237927fb7d.jpg)
+![drone-operator-license](https://user-images.githubusercontent.com/89662644/134459778-5c6d603e-beca-4f19-a375-16c79808da08.jpg)
+![drone-pilots-license-id](https://user-images.githubusercontent.com/89662644/134459779-2769d65b-12eb-4cc1-a35f-7c08634214e6.jpg)
+![mapsler-gps-gamer](https://user-images.githubusercontent.com/89662644/134459780-ce40af6e-bbf1-4300-ae9e-4b3064cc8183.png)
+![medical-information-id-card-3_1](https://user-images.githubusercontent.com/89662644/134459784-f2ea1500-9dfc-4f70-ad3a-743d7c70e6d7.jpg)
+![medical-reference-card](https://user-images.githubusercontent.com/89662644/134459785-a31188ee-2ea8-41aa-99f3-b3be50c90034.jpg)
+![police-id-badge_1](https://user-images.githubusercontent.com/89662644/134459787-f61846b1-9a86-4c79-965b-e9c30bb05304.jpg)
+![police-id-template-5-idcreator](https://user-images.githubusercontent.com/89662644/134459789-aad66298-94f5-402c-9050-bbe36671999b.jpg)
+
+
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
