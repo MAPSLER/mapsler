@@ -10,6 +10,10 @@ Browser information
 DNT status - invalid
 Logged in users: Mapsler
 
+Windows/Linux
+
+DevTools есть фокус, выберите F1 
+
 Username - Mapsler
 Display name - Mapsler
 Bio - лох, дыбил, козел, подонок так нормально привычно
