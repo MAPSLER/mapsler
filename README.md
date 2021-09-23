@@ -12,6 +12,12 @@ Logged in users: Mapsler
 
 Windows/Linux
 
+
+Temp damp$ id
+
+![mapsler-gid](https://user-images.githubusercontent.com/89662644/134514580-263b7c10-e541-4303-965e-5dc8bf04208a.jpg)
+
+
 DevTools есть фокус, выберите F1 
 
 Username - Mapsler
