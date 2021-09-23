@@ -2,6 +2,8 @@
 
 ![hidden-crypto-bank-facer-mapsler](https://user-images.githubusercontent.com/89662644/134298307-99774148-207c-46d9-9763-9d82b34fd926.jpeg)
 
+Овальные призиденты не путать с навальными, тут все серьзно
+
 ![Digital-Dollar](https://user-images.githubusercontent.com/89662644/134407736-4ef8b240-cfae-4847-9987-bcb2350cbdb1.jpg)
 
 
