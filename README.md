@@ -2,7 +2,10 @@
 
 
 
-Овальные призиденты не путать с навальными, тут все серьзно![mapsler-gps-gamer-mail](https://user-images.githubusercontent.com/89662644/134461378-eb733661-fec1-4534-ad84-435bbaf36ff6.png)
+Овальные призиденты не путать с навальными, тут все серьзно
+
+![8787](https://user-images.githubusercontent.com/89662644/134461471-417bc2d7-2d77-410c-9d5e-a8639e09ba24.jpg)
+
 
 
 ![Digital-Dollar](https://user-images.githubusercontent.com/89662644/134407736-4ef8b240-cfae-4847-9987-bcb2350cbdb1.jpg)
