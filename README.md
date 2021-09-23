@@ -1,5 +1,6 @@
 Проект Мапслер, это создания каталогов различного типавов и целей для более правильного user использования
 
+![main_rabota-na-zone vim3mf](https://user-images.githubusercontent.com/89662644/134461558-e21c170c-469a-4ab0-be26-f6c303426fe0.png)
 
 
 Овальные призиденты не путать с навальными, тут все серьзно
@@ -7,6 +8,8 @@
 ![8787](https://user-images.githubusercontent.com/89662644/134461471-417bc2d7-2d77-410c-9d5e-a8639e09ba24.jpg)
 
 
+
+Овальные призиденты не путать с навальными, тут все серьзно
 
 ![Digital-Dollar](https://user-images.githubusercontent.com/89662644/134407736-4ef8b240-cfae-4847-9987-bcb2350cbdb1.jpg)
 
