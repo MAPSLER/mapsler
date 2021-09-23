@@ -160,4 +160,69 @@ Maqpsler Donate invalid progect in use state Denver in DNS register maps in acou
 Mapsler GPS Openstret maps 
 Viber mapsler
 UVR5R_SP3 programine code security in police \A0E0\DNS LOCAL DENVER SERVER php 5.3
+
+
+# This is a basic workflow to help you get started with Actions
+
+name: Mapsler work
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the cooke branch
+  push:
+    branches: [ cooke ]   branches: [ cooke ]   branches: [ cooke ]
+  pull_request:
+    branches: [ cooke ]   branches: [ cooke ]  branches: [ cooke ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs: DONE _ TE _AM
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs: pay _ TE _AM
+
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+      
+      
+      
+       # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+      +180508061220
+      
+      
+       # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+      ![mappsler-health-news](https://user-images.githubusercontent.com/89662644/134508637-7e2b1db7-d388-43ac-a826-85565e6e36fa.jpg)
+
+      
+      тут могла біть реклама нашего спонсора постояного Обухоская картоная фабрика и сеть добровольцев, прошедший строгий отбор по параметрам Туалетная Бумага в Метровой упаковке
+      
+       +380508061220
+      
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+
+
 ![maps-uragan](https://user-images.githubusercontent.com/89662644/133750500-8f84b9e5-ce8f-4aaa-ba3e-5359faf474e8.jpg)
