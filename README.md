@@ -1,5 +1,36 @@
 Проект Мапслер, это создания каталогов различного типавов и целей для более правильного user использования
 
+
+Categories of Personal Data Collected
+Logged out users: Mapsler
+
+Reading history - Mapsler
+IP address - 94.56.45.90
+Browser information 
+DNT status - invalid
+Logged in users: Mapsler
+
+Username - Mapsler
+Display name - Mapsler
+Bio - лох, дыбил, козел, подонок так нормально привычно
+Avatar image - Mapsler
+Email address (non-public)
+Session activity (security)
+Linked social media accounts (optional)
+IP address
+Browser information
+Reading history (on Medium Services only)
+Meta-data about URLs saved by using the optional feature Save to Medium
+Network interactions (recommends, follows, etc.)
+Posts, responses, or series published by user
+Members:
+
+Billing information and history
+Partner authors: Faceler
+
+Bank account for payments
+Business information, if applicable - Mapsler
+
 ![main_rabota-na-zone vim3mf](https://user-images.githubusercontent.com/89662644/134461558-e21c170c-469a-4ab0-be26-f6c303426fe0.png)
 
 
