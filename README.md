@@ -1,8 +1,9 @@
 Проект Мапслер, это создания каталогов различного типавов и целей для более правильного user использования
 
-![hidden-crypto-bank-facer-mapsler](https://user-images.githubusercontent.com/89662644/134298307-99774148-207c-46d9-9763-9d82b34fd926.jpeg)
 
-Овальные призиденты не путать с навальными, тут все серьзно
+
+Овальные призиденты не путать с навальными, тут все серьзно![mapsler-gps-gamer-mail](https://user-images.githubusercontent.com/89662644/134461378-eb733661-fec1-4534-ad84-435bbaf36ff6.png)
+
 
 ![Digital-Dollar](https://user-images.githubusercontent.com/89662644/134407736-4ef8b240-cfae-4847-9987-bcb2350cbdb1.jpg)
 
