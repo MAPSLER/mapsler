@@ -218,7 +218,7 @@ jobs: pay _ TE _AM
       
        # Runs a set of commands using the runners shell
       - name: Run a multi-line script
-      +180508061220
+      
        # Runs a set of commands using the runners shell
       - name: Run a multi-line script
       
@@ -227,7 +227,7 @@ jobs: pay _ TE _AM
       
       тут могла біть реклама нашего спонсора постояного Обухоская картоная фабрика и сеть добровольцев, прошедший строгий отбор по параметрам Туалетная Бумага в Метровой упаковке
       
-       +380508061220
+       
       
         run: |
           echo Add other actions to build,
