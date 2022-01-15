@@ -5,7 +5,7 @@ Categories of Personal Data Collected
 Logged out users: Mapsler
 
 Reading history - Mapsler
-IP address - 94.56.45.90
+IP address - 145.965.45.90
 Browser information 
 DNT status - invalid
 Logged in users: Mapsler
@@ -15,14 +15,17 @@ Windows/Linux
 
 Temp damp$ id
 
-![mapsler-gid](https://user-images.githubusercontent.com/89662644/134514580-263b7c10-e541-4303-965e-5dc8bf04208a.jpg)
+![mapsler-gid]
+
+
+(https://user-images.githubusercontent.com/89662644/134514580-263b7c10-e541-4303-965e-5dc8bf04208a.jpg)
 
 
 DevTools есть фокус, выберите F1 
 
 Username - Mapsler
 Display name - Mapsler
-Bio - лох, дыбил, козел, подонок так нормально привычно
+Bio - BAGOGEN
 Avatar image - Mapsler
 Email address (non-public)
 Session activity (security)
