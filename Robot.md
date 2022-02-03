@@ -19,5 +19,10 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
-UV5R_SP3 programine code securite 
-Security Poilice namber 380665399722 ukraine
+Robot programine code securite 
+Security Poilice 
+
+Robot programine code securite 
+
+
+
