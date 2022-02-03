@@ -37,6 +37,18 @@ Robot area Code ZONE ID {code 8888}
 Robot key board Code Zone ID {code 323}
 Robot key mail listbox Zone ID {code 021}
 
+<link crossorigin="anonymous" media="all" integrity="sha512- github.com/mapsler==" timezone wether UTC="stylesheet" href="https://github.githubassets.com/assets/github-RobotWordPress.css" />
+
+    <script crossorigin="anonymous" defer="defer" integrity="sha512=USER
+    <script crossorigin="Robot" if="if" integrity="sha512=Robot
+    <script crossorigin="DNS Robot" if x filse ="if {abo} alse {1;0}" integrity="sha512=DNS Robot
+    <script crossorigin="DNS Robot" if x filse ="if {abo} alse {1;1}" integrity="sha512=DNS Robot
+    <script crossorigin="DNS Robot" if x filse ="if {abo} alse {a;b}" integrity="sha512=DNS Robot
+    <script crossorigin="DNS Robot" if x filse ="if {abo} alse {0;b}" integrity="sha512=DNS Robot
+    <script crossorigin="DNS Robot" if x filse ="if {abo} alse {1;b}" integrity="sha512=DNS Robot
+    <script crossorigin="DNS Robot" if x filse ="if {abo} alse {a;1}" integrity="sha512=DNS Robot
+
+
 
 h.mapsler
 
