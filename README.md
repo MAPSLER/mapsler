@@ -60,6 +60,32 @@ Robot key mail listbox Zone ID {code 021}
     <script crossorigin="DNS Robot" if x filse ="if {abo} alse {a;1}" integrity="sha512=DNS Robot
 
 
+Записи DNS
+Записи DNS — это специальные настройки для изменения параметров работы домена. Они обеспечивают подключение к сторонним службам, например к поставщику услуг электронной почты. Узнать больше.
+
+Тип
+Имя
+Значение
+CNAME UTKA
+*
+Обрабатывается WordPress.com.
+
+A
+UTKA@
+Обрабатывается WordPress.com.
+
+TXT
+UTKA_domainconnect
+public-api.wordpress.com/UTKA/v1.1/
+
+https://utka.store
+
+Dom Copy Reader Restor Ran
+
+UTKA/v1.2/book/mayeaker/ads
+UTKA/v1.9/book/mayeaker/ads
+UTKA/v1.8/book/mayeaker/ads
+UTKA/v1.1/book/mayeaker/ads
 
 h.mapsler
 
