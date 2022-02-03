@@ -26,6 +26,11 @@ Pablice IBSN Book, gazete, shop - bleak fray day, or men in bleak
 http://gazeta.store
 
 
+RobotIDAuthentication1.1
+DNS1
+RobotIDAuthentication1.2
+DNS2
+
 POST /token HTTP/1.1
   Host: robotbank.store
   Content-Type: application/x-www-form-robotbank.store
@@ -56,21 +61,24 @@ DNS 2
 in IP address - 145.965.45.90
 out IP address - 245.965.45.90
 
-in port 1
+mail list  in port 1 post UID secret
 
-out port 2
+mail list list out port 2 post UID secret
 
-in port 3
+mail list  in port 3
 
-out port 4
+mail list out port 4
 
-line 61
+mail list line 61
 
-line 63
+mail list line 63
 
-line 65
+mail list line 65
 
-line 67
+mail list line 67
+
+
+???????????????????????????????????????????? qrcode UID Zakone UID {FFFFFFFFFFFFFFF; <robot@githab>}
 
 Browser information UID Robot 
 DNT status - invalid UID Robot
@@ -248,47 +256,80 @@ name: Mapsler work
 on:
   # Triggers the workflow on push or pull request events but only for the cooke branch
   push:
-    branches: [ cooke ]   branches: [ cooke ]   branches: [ cooke ]
+   
+    branches: [ robot ]   branches: [ robot ]   branches: [ robot ]
+    
   pull_request:
-    branches: [ cooke ]   branches: [ cooke ]  branches: [ cooke ]
+  
+    branches: [ robot ]   branches: [ robot ]  branches: [ robot ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  branches: [ robot ]   branches: [ robot ]   branches: [ robot ]
+    
+  pull_request:
+  
+    branches: [ robot ]   branches: [ robot ]  branches: [ robot ]
 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs: DONE _ TE _AM
 
+  branches: [ robot ]   branches: [ robot ]   branches: [ robot ]
+    
+  pull_request:
+  
+    branches: [ robot ]   branches: [ robot ]  branches: [ robot ]
+
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs: pay _ TE _AM
 
   # This workflow contains a single job called "build"
+  
+    branches: [ robot ]   branches: [ robot ]   branches: [ robot ]
+    
+  pull_request:
+  
+    branches: [ robot ]   branches: [ robot ]  branches: [ robot ]
+
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest abo wordpress
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/robotut@v2
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
+        
+        robot GET 
+        
+        robot SET
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Run a multi-line script @robot
       
       
       
        # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Run a multi-line script @mailrobot
       
        # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Run a multi-line script gazetstore
+      
+      wildshark testing app 
+      goodle tasting app
+      social testing app
+      helth testing app
+      E helth testing app
+      
       
       ![mappsler-health-news](https://user-images.githubusercontent.com/89662644/134508637-7e2b1db7-d388-43ac-a826-85565e6e36fa.jpg)
 
