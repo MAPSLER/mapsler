@@ -1,7 +1,9 @@
 *h.mapsler
+
+
 h.mapsler
 
-
+https://githab.shop
 
 Categories of Personal Data Collected
 Logged out users: mapsler
