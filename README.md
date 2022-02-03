@@ -1,15 +1,17 @@
 *h.mapsler
 
-Authors' Addresses Robot
+Authors' @Addresses Robot
 
 
-Authors' Authentication Protocol
+Autors //  Terminology //
+
+Authors' Authentication Protocol {Authentication Protocol 0a;Authentication Protocol 0b;Authentication Protocol 0o}
 
 
-Authors' Zone Radar ID
+Authors' #Zone Radar ID
 
 
-Authors'Robot Parameters
+Authors'%Robot Parameters
 
 Authors' Paymant meat tod abo metod Rotod
 
