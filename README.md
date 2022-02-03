@@ -42,6 +42,46 @@ POST /token HTTP/1.1
     &grant_type=Robot
     &refresh_token=Robot
     &scope=Robot%20profile
+    
+    
+    
+    gh browse Robot
+gh browse [<Robotr> | <pass>] [flags]
+Open the GitHub Robot repository in the web browser.
+
+Options
+-b, --branch <string>
+Select another branch by passing in the branch name
+-c, --commit
+Open the last commit
+-n, --no-browser
+Print destination URL instead of opening the browser
+-p, --projects
+Open repository projects
+-R, --repo <[HOST/]OWNER/REPO>
+Select another repository using the [HOST/]OWNER/REPO format
+-s, --settings
+Open repository settings
+-w, --wiki
+Open repository wiki
+Examples
+$ gh browse
+#=> Open the home page of the current repository
+
+$ gh browse Robot
+#=> Open issue or pull request Robot
+
+$ gh browse --settings
+#=> Open repository settings
+
+$ gh browse main.go🕞
+#=> Open main.go at line 312
+
+$ gh browse main.go --branch main
+#=> Open main.go in the main branch
+    
+    
+    
 
 Redirect URI Fragment Handling Implementation Notes
 When response parameters are returned in the Redirection URI fragment value, the Client needs to have the User Agent parse the fragment encoded values and pass them to on to the Client's processing logic Robot for consumption. User Agents that have direct access to cryptographic APIs may be able to be self-contained, for instance, with all Client code being written in JavaScript Robot
@@ -96,8 +136,35 @@ Temp damp$ id Robot
 
 (https://user-images.githubusercontent.com/89662644/134514580-263b7c10-e541-4303-965e-5dc8bf04208a.jpg)
 
-
+CODER TOOLS
+  
 DevTools есть фокус, выберите F1 
+MapslerTools выберите F2
+Robot Image Roomen Robot UID Baton {a;0}
+Robot Image Roomen Robot UID Baton {b;0}
+Robot Image Roomen Robot UID Baton {o;0}
+Robot Image Roomen Robot UID Baton {0;0}
+Robot Image Roomen Robot UID Baton { ; }  
+Robot Image Roomen Robot UID Baton {z;e}
+Robot Image Roomen Robot UID Baton {q;r}    
+  
+ Deposite Cloud Club MASC **SHOT**
+  
+  https://mailrobot.store
+  
+  Deposite Cloud Club Pay Ticet UA Banking
+  
+  Deposite Cloud Club Pay Ticet EC Banking
+  
+  Deposite Cloud Club Pay Ticet AR Banking
+  
+  Deposite Cloud Club Pay Ticet MC Banking
+  
+  Deposite Cloud Club Pay Ticet BR Banking
+  
+  
+  
+  
 
 https://user-images.githubusercontent.com/89662644/134461558-e21c170c-469a-4ab0-be26-f6c303426fe0.png
 
@@ -126,7 +193,7 @@ Business information, if applicable - Mapsler
 ![main_rabota-na-zone vim3mf](https://user-images.githubusercontent.com/89662644/134461558-e21c170c-469a-4ab0-be26-f6c303426fe0.png)
 
 
-Овальные призиденты не путать с навальными, тут все серьзно
+Овальные призиденты не путать с навальными, тут все серьзно CEL кто я корь? |E helth| Call ID nomber fone sms Name Zone ID Radar
 
 ![8787](https://user-images.githubusercontent.com/89662644/134461471-417bc2d7-2d77-410c-9d5e-a8639e09ba24.jpg)
 
