@@ -1,5 +1,15 @@
 *h.mapsler
 
+Authors' Addresses Robot
+
+
+
+
+Authors'Robot Parameters
+
+
+
+Authors'Robot Partners
 
 h.mapsler
 
