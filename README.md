@@ -10,6 +10,15 @@ Pablice IBSN Book, gazete, shop - bleak fray day, or men in bleak
 http://gazeta.store
 
 
+POST /token HTTP/1.1
+  Host: robotbank.store
+  Content-Type: application/x-www-form-robotbank.store
+
+  client_id=Robot
+    &client_secret=some_secretRobot
+    &grant_type=Robot
+    &refresh_token=Robot
+    &scope=Robot%20profile
 
 
 
