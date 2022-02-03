@@ -7,7 +7,7 @@ https://githab.shop
 
 Pablice IBSN Book, gazete, shop - bleak fray day, or men in bleak
 
-gazeta.store
+http://gazeta.store
 
 
 
