@@ -58,22 +58,22 @@ in port 3
 
 out port 4
 
-line 
+line 61
 
-line
+line 63
 
-line
+line 65
 
-line
+line 67
 
-Browser information 
-DNT status - invalid
+Browser information UID Robot 
+DNT status - invalid UID Robot
 Logged in users: mapsler
 
 Windows/Linux
 
 
-Temp damp$ id
+Temp damp$ id Robot
 
 ![mapsler-gid]
 
@@ -82,6 +82,8 @@ Temp damp$ id
 
 
 DevTools есть фокус, выберите F1 
+
+https://user-images.githubusercontent.com/89662644/134461558-e21c170c-469a-4ab0-be26-f6c303426fe0.png
 
 Username - Mapsler
 Display name - Mapsler
