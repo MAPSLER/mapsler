@@ -5,6 +5,14 @@ h.mapsler
 
 https://githab.shop
 
+Pablice IBSN Book, gazete, shop - bleak fray day, or men in bleak
+
+gazeta.store
+
+
+
+
+
 Categories of Personal Data Collected
 Logged out users: mapsler
 
