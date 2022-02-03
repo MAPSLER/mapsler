@@ -17,6 +17,27 @@ Authors' Paymant meat tod abo metod Rotod
 
 Authors'Robot Partners
 
+our current session
+Seen in & country &
+Device: Robot
+Microsoft Edge on Windows
+Google inc
+
+Last location:
+Robot DNS, Robot DNS, Robot DNS
+
+Signed in:
+
+01,01, 2001
+
+Secret Mapsler Position Radar ZONE ID
+Secret Masler Navigation Destinations ZONE ID
+
+Robot area Code ZONE ID {code 8888}
+Robot key board Code Zone ID {code 323}
+Robot key mail listbox Zone ID {code 021}
+
+
 h.mapsler
 
 https://githab.shop
