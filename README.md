@@ -3,6 +3,10 @@
 Authors' Addresses Robot
 
 
+Authors' Authentication Protocol
+
+
+Authors' Zone Radar ID
 
 
 Authors'Robot Parameters
