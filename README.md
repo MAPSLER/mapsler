@@ -21,6 +21,8 @@ h.mapsler
 
 https://githab.shop
 
+https//:github.com/githab.shop/robot/production_install
+
 Pablice IBSN Book, gazete, shop - bleak fray day, or men in bleak
 
 http://gazeta.store
