@@ -20,7 +20,16 @@ POST /token HTTP/1.1
     &refresh_token=Robot
     &scope=Robot%20profile
 
+Redirect URI Fragment Handling Implementation Notes
+When response parameters are returned in the Redirection URI fragment value, the Client needs to have the User Agent parse the fragment encoded values and pass them to on to the Client's processing logic Robot for consumption. User Agents that have direct access to cryptographic APIs may be able to be self-contained, for instance, with all Client code being written in JavaScript Robot
 
+However, if the ClientRobot does not run entirely in the User Agent, one way to achieve this is to post them to a Web Server Client for validation.
+
+The following is an example of a JavaScript file that a Client might host at its redirect_uri. This is loaded by the redirect from the Authorization Server. The fragment component Robot is parsed and then sent by POST to a URI that will validate and use the information received.
+
+
+
+Following is a Robot tocen-normative example of a Redirect URI response in DNS ZONE RADAR ID
 
 Categories of Personal Data Collected
 Logged out users: mapsler
@@ -266,7 +275,7 @@ jobs: pay _ TE _AM
       ![mappsler-health-news](https://user-images.githubusercontent.com/89662644/134508637-7e2b1db7-d388-43ac-a826-85565e6e36fa.jpg)
 
       
-    FFFFFFF naber 0ne/////
+    FFFFFFF naber 0ne///// RED HEAD worck flore Colore Seckret PAY ID
       
        
       
