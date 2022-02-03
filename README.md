@@ -11,7 +11,7 @@ Authors' Zone Radar ID
 
 Authors'Robot Parameters
 
-
+Authors' Paymant meat tod abo metod Rotod
 
 Authors'Robot Partners
 
