@@ -87,6 +87,11 @@ UTKA/v1.9/book/mayeaker/ads
 UTKA/v1.8/book/mayeaker/ads
 UTKA/v1.1/book/mayeaker/ads
 
+edge://settings/content/siteDetails?site=setings user utka; mailrobot@utka.store          {edge://settings/content/siteDetails?site=setings user mailrobot@utka.store}
+edge://settings/content/siteDetails?site=setings user utka cel; mailrobot@utka.store      {edge://settings/content/siteDetails?site=setings user mailrobot@utka.store}
+edge://settings/content/siteDetails?site=setings user utka cel zen ; mailrobot@utka.store {edge://settings/content/siteDetails?site=setings user mailrobot@utka.store
+edge://settings/content/siteDetails?site=setings user mail mailrobot@utka.store           {edge://settings/content/siteDetails?site=setings user mailrobot@utka.store}
+
 h.mapsler
 
 https://githab.shop
@@ -264,12 +269,20 @@ Business information, if applicable - Mapsler
 
 
 Овальные призиденты не путать с навальными, тут все серьзно CEL кто я корь? |E helth| Call ID nomber fone sms Name Zone ID Radar
-
+      
+#*.jpg   binary
+#*.png   binary
+#*.gif   binary
+      
 ![8787](https://user-images.githubusercontent.com/89662644/134461471-417bc2d7-2d77-410c-9d5e-a8639e09ba24.jpg)
 
 
 
 Овальные призиденты не путать с навальными, тут все серьзно
+      
+#*.jpg   binary
+#*.png   binary
+#*.gif   binary      
 
 ![Digital-Dollar](https://user-images.githubusercontent.com/89662644/134407736-4ef8b240-cfae-4847-9987-bcb2350cbdb1.jpg)
 
@@ -278,8 +291,14 @@ Business information, if applicable - Mapsler
 
 ![donations](https://user-images.githubusercontent.com/89662644/133726679-7bc5473a-0f04-4f2e-8d76-88ae2bbc667c.jpg)
 
+#*.jpg   binary
+#*.png   binary
+#*.gif   binary
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
+#*.jpg   binary
+#*.png   binary
+#*.gif   binary      
 ###############################################################################
 * text=auto
 
@@ -296,6 +315,9 @@ drone-pilots-license-id тут мы летаем
 ![police-id-badge_1](https://user-images.githubusercontent.com/89662644/134459787-f61846b1-9a86-4c79-965b-e9c30bb05304.jpg)
 ![police-id-template-5-idcreator](https://user-images.githubusercontent.com/89662644/134459789-aad66298-94f5-402c-9050-bbe36671999b.jpg)
 
+#*.jpg   binary
+#*.png   binary
+#*.gif   binary
 
 
 ###############################################################################
@@ -367,6 +389,56 @@ drone-pilots-license-id тут мы летаем
 
 <!--
 **mapsler/mapsler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Bank account for payments
+Business information, if applicable - UTKA
+
+Bank account for payments
+Business information, if applicable - Robot
+
+Bank account for payments
+Business information, if applicable - Robot bank
+
+Bank account for payments
+Business information, if applicable - Robot Credit
+
+Bank account for payments
+Business information, if applicable - Robot Radar
+
+Bank account for payments
+Business information, if applicable - Robot Cloud
+
+Bank account for payments
+Business information, if applicable - Robot Githad
+
+Bank account for payments
+Business information, if applicable - Robot Images
+
+Bank account for payments
+Business information, if applicable - Robot Masage
+
+Bank account for payments
+Business information, if applicable - Robot UTKA
+
+Bank account for payments
+Business information, if applicable - Robot Mapsler
+
+Bank account for payments
+Business information, if applicable - Robot UID
+
+Bank account for payments
+Business information, if applicable - Robot Check
+
+Bank account for payments
+Business information, if applicable - Robot Git UTKA
+
+Bank account for payments
+Business information, if applicable - Robot Get UTKA
+
+Bank account for payments
+Business information, if applicable - Robot Set UTKA
+
+
 
 
 
