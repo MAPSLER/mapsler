@@ -1,5 +1,16 @@
 *h.mapsler
 
+<style>
+      .user-mention[href$="/mapsler"] {
+        color: var(--fffffff-user-mention-fg);
+        background-color: var(--color-user-mention-bg);
+        border-radius: 2px;
+        margin-left: -2px;
+        margin-right: -2px;
+        padding: 0 2px;
+      }
+    </style>
+
 Authors' @Addresses Robot
 
 
