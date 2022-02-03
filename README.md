@@ -1,25 +1,36 @@
-Проект Мапслер, это создания каталогов различного типавов и целей для более правильного user использования запрешеные пароли запрешение тестирование, ошибки, папки, документи, кредиты, банки, игры, закладки, наркотики, казино, смертельные несчастные случаи, законные акти, позаконые, инструкции, пишите так чтобы нравилось в конце УТВ, У ТВ...
-Карта находится в разделе первой битой погоды
+*h.mapsler
+h.mapsler
 
-Обойдемся без ВАЗ Горьковский проект извесного криминального авторитета из Голивуда Какие Люди Кенади...Переводчик Дедушек через Дорогу в отсутствие Бабушек..
-
-Мемориальные тексты...
-
-Стихи Робот Формы ....
-
-Место прожиточного транспорта, социальная комната переговор, аренда Пупок... Стахи, тихие разноворы без проверки Запрешени.
-
-Штраф за не законую Бесплатную Зашиту...
 
 
 Categories of Personal Data Collected
-Logged out users: Mapsler
+Logged out users: mapsler
 
 Reading history - Mapsler
-IP address - 145.965.45.90
+DNS 1
+DNS 2
+in IP address - 145.965.45.90
+out IP address - 245.965.45.90
+
+in port 1
+
+out port 2
+
+in port 3
+
+out port 4
+
+line 
+
+line
+
+line
+
+line
+
 Browser information 
 DNT status - invalid
-Logged in users: Mapsler
+Logged in users: mapsler
 
 Windows/Linux
 
@@ -36,18 +47,19 @@ DevTools есть фокус, выберите F1
 
 Username - Mapsler
 Display name - Mapsler
-Bio - BAGOGEN
-Avatar image - Mapsler
+Bio - Fasler
+Avatar image - Mapsler UID WordPress
 Email address (non-public)
 Session activity (security)
 Linked social media accounts (optional)
-IP address
-Browser information
+IP address old
+Browser information old
 Reading history (on Medium Services only)
 Meta-data about URLs saved by using the optional feature Save to Medium
 Network interactions (recommends, follows, etc.)
 Posts, responses, or series published by user
-Members:
+Members: Vendors? Vaiber club, Gamer Grup, Robot Form, Deposite foto, Deposite vido, Deposite DNS, Deposite Licence, Deposite SUD,  Deposite UID, Deposite Credit, Deposite maps, Deposite Pay account, Deposite masasege, Robot GNU Pablic,
+WordPress
 
 Billing information and history
 Partner authors: Faceler
@@ -163,11 +175,7 @@ drone-pilots-license-id тут мы летаем
 <!--
 **mapsler/mapsler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Новые ночные крики мертвых и струные голоса с опросом 2 и 6 или 4 и 4 и другие порядки в виде кнопок, и *..* с описанием вы можете сами идите и купите а мы у вас заберем, потеряли...
- 
-с уважением к судам...
 
-Наш актив, ный скрипт тестируется, с лицензией хирурга, свободно распространяюшиеся
 
 Here are some ideas to get you started:
 
