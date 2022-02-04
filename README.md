@@ -682,3 +682,9 @@ jobs: pay _ TE _AM
 
 
 ![maps-uragan](https://user-images.githubusercontent.com/89662644/133750500-8f84b9e5-ce8f-4aaa-ba3e-5359faf474e8.jpg)
+
+	Вот тут могла Біть ВАША Реклама
+	
+	место и способ есть после меня начнутся проблема... как "Толька" удалим....
+	
+	https://www.pohoron.com.ua/helpful-info/mortuaries
