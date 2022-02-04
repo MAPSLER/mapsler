@@ -84,7 +84,13 @@ Robot key mail listbox Zone ID {code 021}
     <script crossorigin="DNS Robot" if x filse ="if {abo} alse {0;b}" integrity="sha512=DNS Robot
     <script crossorigin="DNS Robot" if x filse ="if {abo} alse {1;b}" integrity="sha512=DNS Robot
     <script crossorigin="DNS Robot" if x filse ="if {abo} alse {a;1}" integrity="sha512=DNS Robot
+    
+    
+https://coderoad.ru/27856092/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%B8%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D0%BE%D1%82%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8-%D0%BD%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8-%D0%B2
 
+вот тут Блокировка сервера присоединения по регионам Амазон..
+
+Чуть ниже ваше согласие на всыание прошков и таблеток в отсутствие ВАС дома или На рабочем месте с копированием паролей и пинкодов и Решение с историей .... и Звонки поговорим и Решим с Развлечением WHOIS
 
 Записи DNS
 Записи DNS — это специальные настройки для изменения параметров работы домена. Они обеспечивают подключение к сторонним службам, например к поставщику услуг электронной почты. Узнать больше.
