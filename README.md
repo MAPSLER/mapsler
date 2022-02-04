@@ -94,6 +94,13 @@ edge://settings/content/siteDetails?site=setings user mail mailrobot@utka.store 
 
 h.mapsler
 
+
+
+Тест видео плеера Запрешений видео плеер Автороское право Архив Улікба0йся
+
+https://video.ukc.gov.ua/webrtc/index.html
+
+
 https://githab.shop
 
 https//:github.com/githab.shop/robot/production_install
