@@ -44,6 +44,8 @@ Signed in:
 Secret Mapsler Position Radar ZONE ID
 Secret Masler Navigation Destinations ZONE ID
 
+myshopify rederect ip UID tocen = out image batone
+
 Robot area Code ZONE ID {code 8888}
 Robot key board Code Zone ID {code 323}
 Robot key mail listbox Zone ID {code 021}
