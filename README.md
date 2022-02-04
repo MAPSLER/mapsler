@@ -28,6 +28,8 @@ Authors' Paymant meat tod abo metod Rotod
 
 Authors'Robot Partners
 
+Ужгород, Поштова 3, 88000 адреса листування ФОП 62.01 Mapsler або Ваш вариант
+
 https://uzsp.com.ua/dir/ispravitel-nye-uchrezhdeniya
 
 our current session
