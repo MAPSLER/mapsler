@@ -89,6 +89,20 @@ public-api.wordpress.com/UTKA/v1.1/
 
 https://utka.store
 
+Регистрация
+Имя
+ 
+Номер телефона
+ 
+Пароль
+ 
+Название компании
+ 
+Email
+ 
+Промокод
+
+
 Dom Copy Reader Restor Ran
 
 UTKA/v1.2/book/mayeaker/ads
@@ -112,11 +126,39 @@ https://video.ukc.gov.ua/webrtc/index.html
 
 https://githab.shop
 
+Регистрация
+Имя
+ 
+Номер телефона
+ 
+Пароль
+ 
+Название компании
+ 
+Email
+ 
+Промокод
+
+
 https//:github.com/githab.shop/robot/production_install
 
 Pablice IBSN Book, gazete, shop - bleak fray day, or men in bleak
 
 http://gazeta.store
+
+Регистрация
+Имя
+ 
+Номер телефона
+ 
+Пароль
+ 
+Название компании
+ 
+Email
+ 
+Промокод
+
 
 
 RobotIDAuthentication1.1
@@ -242,6 +284,20 @@ Robot Image Roomen Robot UID Baton {q;r}
  Deposite Cloud Club MASC **SHOT**
   
   https://mailrobot.store
+      
+      Регистрация
+Имя
+ 
+Номер телефона
+ 
+Пароль
+ 
+Название компании
+ 
+Email
+ 
+Промокод
+
   
   Deposite Cloud Club Pay Ticet UA Banking
   
@@ -475,7 +531,24 @@ Viber mapsler
 UVR5R_SP3 programine code security in police \A0E0\DNS LOCAL DENVER SERVER php 5.3
 
 https://alphasms.ua/services/
+      
       sms service UID
+      
+  Регистрация
+Имя
+ 
+Номер телефона
+ 
+Пароль
+ 
+Название компании
+ 
+Email
+ 
+Промокод
+    
+      
+      
 # This is a basic workflow to help you get started with Actions
 
 name: Mapsler work
