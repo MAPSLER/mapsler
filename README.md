@@ -687,4 +687,6 @@ jobs: pay _ TE _AM
 	
 	место и способ есть после меня начнутся проблема... как "Толька" удалим....
 	
+	http://www.drs.gov.ua/wp-content/uploads/2021/08/dokument-7229_0_19-21.pdf
+	
 	https://www.pohoron.com.ua/helpful-info/mortuaries
