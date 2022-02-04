@@ -685,6 +685,8 @@ jobs: pay _ TE _AM
 
 	Вот тут могла Біть ВАША Реклама
 	
+	https://svit-polimeriv.com.ua/g86431607-pakety-dlya-trupov
+	
 	место и способ есть после меня начнутся проблема... как "Толька" удалим....
 	
 	http://www.drs.gov.ua/wp-content/uploads/2021/08/dokument-7229_0_19-21.pdf
