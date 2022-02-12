@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-https://www.dxmaps.com/photos/
+https://www.dxmaps.com/photos/radiostantsiya-prezident 103,7
+
+radiostantsiya-prezident 103,7 (radiostantsiya-prezident 103,7)
+
 <!--
 **mapsler/mapsler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,8 @@ Here are some ideas to get you started:
 - 💬 mapsler Ask me about ...
 - 📫 mapsler How to reach me: ...
 - 😄 mapsler Pronouns: ...
-- ⚡ mapsler Fun fact: ...
+- ⚡ mapsler Fun fact: ...radiostantsiya-prezident 103,7 RADAR zone id
+
+
+
 mapsler -->https://www.dxmaps.com/photos/
